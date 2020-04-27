@@ -1,0 +1,2 @@
+# estatistica
+Estatística aplicada
